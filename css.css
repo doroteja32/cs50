@@ -1,0 +1,77 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.pirmasKvadratas {
+    width: 400px;
+    height: 1200px;
+    background-color: aquamarine;
+} 
+
+.antrasKvadratas {
+    width: 400px;
+    height: 1200px;
+    background-color: blue;
+}
+
+.treciasKvadratas {
+    width: 400px;
+    height: 1200px;
+    background-color: greenyellow;
+}
+
+.ketvirtasKvadratas {
+    width: 400px;
+    height: 1200px;
+    background-color: palevioletred;
+}
+
+.kvadrate {
+   
+    text-align: center;
+    color: orangered;  
+    font-size: 300px;
+    
+
+}
+
+.kvadrate2 {
+   
+    text-align: center;
+     color: white;   
+     font-size: 300px;
+
+}
+
+.kvadrate3 {
+   
+    text-align: center;
+     color: black;   
+     font-size: 300px;
+
+}
+
+.kvadrate4 {
+   
+    text-align: center;
+     color: yellow;   
+     font-size: 300px;
+
+}
+.txtKvadrate {
+    text-align: center;
+}
+
+.txtKvadrate2 {
+    text-align: center;
+}
+
+.txtKvadrate3 {
+    text-align: center;
+}
+
+.txtKvadrate4 {
+    text-align: center;
+}
